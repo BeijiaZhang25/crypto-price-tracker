@@ -15,18 +15,18 @@ This project is a simple Crypto Price Tracker built with Next.js and documented 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/BeijiaZhang25/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/BeijiaZhang25/crypto-price-tracker.git
+cd  \ Crypto\ Price\ Tracker 
 ```
 
 ### 2️⃣ Install Dependencies
 ```bash
-yarn install  # or npm install
+npm install
 ```
 
 ### 3️⃣ Run the Development Server
 ```bash
-yarn dev  # or npm run dev
+npm run dev
 ```
 Then, open **http://localhost:3000** in your browser.
 
